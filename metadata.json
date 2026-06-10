@@ -1,0 +1,10 @@
+{
+  "name": "Wavelength Salon",
+  "description": "Premium luxury beauty salon and grooming studio in Kankurgachi, Kolkata. Experience award-winning beauty, hair, skin, and bridal makeup services.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
